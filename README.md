@@ -11,4 +11,5 @@
 
 - [Micronaut HTTP Client documentation](https://docs.micronaut.io/latest/guide/index.html#httpClient)
 
-
+## Problem Statement 
+- [Fizz Buzz Kata](https://kata-log.rocks/fizz-buzz-kata)
